@@ -52,11 +52,11 @@ Hotel-Booking-System/
 
 ## 👩‍💻 Team Members
 
-| Name             | Student ID |
-| ---------------- | ---------- |
-| Wesal Alnoamani  | 444204758  |
-| Fatmah Almutairi | 445203086  |
-| Reem Alsuhaibani | 445201397  |
+ Name             
+---------------- 
+ Wesal Alnoamani  
+  Fatmah Almutairi 
+ Reem Alsuhaibani 
 
 ## 🎓 Course Information
 
